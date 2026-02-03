@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Github 👋
 
 <!--
 **InaiMathi86/InaiMathi86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
