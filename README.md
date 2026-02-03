@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-## About me
+## About Me
 Blogger at [InaiMathi.de](https://inaimathi.de) writing about Gaming, System building, Linux, Tech, Biking & generally nerdy Stuff.
 
 ## Socials
